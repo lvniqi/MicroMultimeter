@@ -1,0 +1,2 @@
+Added Pin To Net: NetName=DAC_OUT Pin=U1-15
+Change Net Name : Old Net Name=DAC_OUT New Net Name=SOUND_OUT

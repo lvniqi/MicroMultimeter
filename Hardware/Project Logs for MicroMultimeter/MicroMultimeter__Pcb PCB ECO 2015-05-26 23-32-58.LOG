@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=GND Pin=OLED_0.96-11
+Removed Pin From Net: NetName=GND Pin=OLED_0.96-12
+Removed Pin From Net: NetName=GND Pin=OLED_0.96-17
+Added Pin To Net: NetName=NetOLED_0.96_11 Pin=OLED_0.96-11
+Added Pin To Net: NetName=NetOLED_0.96_11 Pin=OLED_0.96-12
+Added Pin To Net: NetName=NetOLED_0.96_11 Pin=OLED_0.96-17

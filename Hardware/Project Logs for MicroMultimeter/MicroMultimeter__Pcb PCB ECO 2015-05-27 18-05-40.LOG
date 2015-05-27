@@ -1,0 +1,29 @@
+Removed Pin From Net: NetName=SOUND_OUT Pin=MC_1-1
+Added Component: Designator=C8(CAP_0603)
+Added Component: Designator=R27(RES_0603)
+Added Pin To Net: NetName=GND Pin=C8-1
+Added Pin To Net: NetName=SOUND_OUT Pin=R27-2
+Added Pin To Net: NetName=NetC8_2 Pin=C8-2
+Added Pin To Net: NetName=NetC8_2 Pin=R27-1
+Added Pin To Net: NetName=NetC8_2 Pin=U18-5
+Added Net: Name=NetC8_2
+Added Pin To Net: NetName=NetU18_6 Pin=U18-6
+Added Pin To Net: NetName=NetU18_6 Pin=U18-7
+Added Net: Name=NetU18_6
+Added Member To Class: ClassName=U_MicroMultimeter_PHONECNT_Sch Member=Component C7 Cap
+Added Member To Class: ClassName=U_MicroMultimeter_PHONECNT_Sch Member=Component C8 Cap
+Added Member To Class: ClassName=MCU Member=Component C9 Cap_0603
+Added Member To Class: ClassName=MCU Member=Component C10 Cap_0603
+Added Member To Class: ClassName=MCU Member=Component C11 Cap_0603
+Added Member To Class: ClassName=EXP Member=Component HDR HDR2x10_2.54
+Added Member To Class: ClassName=USB Member=Component MircoUSB USB_Micro
+Added Member To Class: ClassName=USB Member=Component R1 Res_0603
+Added Member To Class: ClassName=USB Member=Component R2 Res_0603
+Added Member To Class: ClassName=USB Member=Component R3 Res_0603
+Added Member To Class: ClassName=MCU Member=Component R4 Res_0603
+Added Member To Class: ClassName=MCU Member=Component R5 Res_0603
+Added Member To Class: ClassName=U_MicroMultimeter_PHONECNT_Sch Member=Component R8 Res_0603
+Added Member To Class: ClassName=U_MicroMultimeter_PHONECNT_Sch Member=Component R22 Res_0603
+Added Member To Class: ClassName=U_MicroMultimeter_PHONECNT_Sch Member=Component R27 Res_0603
+Added Member To Class: ClassName=PWR Member=Component SP SP6205
+Added Member To Class: ClassName=SWD Member=Component SWD HDR1x4_1.27

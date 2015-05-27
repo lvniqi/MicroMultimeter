@@ -1,0 +1,6 @@
+Added Pin To Net: NetName=NetR15_2 Pin=HDR-7
+Added Pin To Net: NetName=PROBE_I0 Pin=R18-1
+Added Pin To Net: NetName=PROBE_CH1 Pin=R18-2
+Added Pin To Net: NetName=PROBE_I0 Pin=R20-2
+Added Pin To Net: NetName=NetR15_2 Pin=U1-19
+Change Net Name : Old Net Name=NetR15_2 New Net Name=PROBE_CH2

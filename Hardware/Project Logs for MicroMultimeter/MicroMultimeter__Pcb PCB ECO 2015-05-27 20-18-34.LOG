@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=3V3 Pin=SWD-1
+Removed Pin From Net: NetName=SW_DIO Pin=SWD-2
+Removed Pin From Net: NetName=SW_CLK Pin=SWD-3
+Removed Pin From Net: NetName=GND Pin=SWD-4
+Removed Member From Class: ClassName=SWD Member=SWD
+Added Component: Designator=ST-LINK1(HDR1X4)
+Added Pin To Net: NetName=3V3 Pin=ST-LINK1-1
+Added Pin To Net: NetName=GND Pin=ST-LINK1-2
+Added Pin To Net: NetName=SW_DIO Pin=ST-LINK1-3
+Added Pin To Net: NetName=SW_CLK Pin=ST-LINK1-4
+Added Member To Class: ClassName=SWD Member=Component ST-LINK1 Header 4

@@ -1,0 +1,2 @@
+Removed Pin From Net: NetName=COMP1_INP Pin=HDR-6
+Added Pin To Net: NetName=GND Pin=HDR-6

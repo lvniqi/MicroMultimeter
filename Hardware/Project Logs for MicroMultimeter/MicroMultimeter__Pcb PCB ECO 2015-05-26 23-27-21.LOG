@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=3V3 Pin=BUZZER-P
+Removed Pin From Net: NetName=3V3 Pin=D6-2
+Removed Pin From Net: NetName=GND Pin=OLED_0.96-11
+Removed Pin From Net: NetName=GND Pin=OLED_0.96-12
+Removed Pin From Net: NetName=GND Pin=OLED_0.96-17
+Removed Pin From Net: NetName=GND Pin=Q5-2
+Removed Pin From Net: NetName=BUZZER Pin=R22-2
+Added Pin To Net: NetName=NetOLED_0.96_11 Pin=OLED_0.96-11
+Added Pin To Net: NetName=NetOLED_0.96_11 Pin=OLED_0.96-12
+Added Pin To Net: NetName=NetOLED_0.96_11 Pin=OLED_0.96-17

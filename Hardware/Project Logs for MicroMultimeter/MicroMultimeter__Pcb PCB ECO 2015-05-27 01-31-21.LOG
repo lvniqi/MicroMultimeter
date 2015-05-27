@@ -1,0 +1,4 @@
+Added Component: Designator=U18(SOP-8)
+Added Pin To Net: NetName=GND Pin=U18-4
+Added Pin To Net: NetName=5V Pin=U18-8
+Added Member To Class: ClassName=U_MicroMultimeter_PHONECNT_Sch Member=Component U18 LM258

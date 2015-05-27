@@ -1,0 +1,30 @@
+Removed Pin From Net: NetName=3V3 Pin=HDR-1
+Removed Pin From Net: NetName=3V3 Pin=HDR-2
+Removed Pin From Net: NetName=GND Pin=HDR-3
+Removed Pin From Net: NetName=GND Pin=HDR-4
+Removed Pin From Net: NetName=PROBE_CH1 Pin=HDR-6
+Removed Pin From Net: NetName=GND Pin=HDR-7
+Removed Pin From Net: NetName=GND Pin=HDR-9
+Removed Pin From Net: NetName=GND Pin=HDR-10
+Removed Pin From Net: NetName=EXP_01 Pin=HDR-11
+Removed Pin From Net: NetName=EXP_02 Pin=HDR-12
+Removed Pin From Net: NetName=EXP_03 Pin=HDR-13
+Removed Pin From Net: NetName=EXP_04 Pin=HDR-14
+Removed Pin From Net: NetName=EXP_05 Pin=HDR-15
+Removed Pin From Net: NetName=EXP_06 Pin=HDR-16
+Removed Pin From Net: NetName=EXP_07 Pin=HDR-17
+Removed Pin From Net: NetName=EXP_08 Pin=HDR-18
+Added Pin To Net: NetName=3V3 Pin=HDR-3
+Added Pin To Net: NetName=3V3 Pin=HDR-4
+Added Pin To Net: NetName=GND Pin=HDR-6
+Added Pin To Net: NetName=PROBE_CH1 Pin=HDR-7
+Added Pin To Net: NetName=EXP_01 Pin=HDR-9
+Added Pin To Net: NetName=EXP_02 Pin=HDR-10
+Added Pin To Net: NetName=EXP_03 Pin=HDR-11
+Added Pin To Net: NetName=EXP_04 Pin=HDR-12
+Added Pin To Net: NetName=EXP_05 Pin=HDR-13
+Added Pin To Net: NetName=EXP_06 Pin=HDR-14
+Added Pin To Net: NetName=EXP_07 Pin=HDR-15
+Added Pin To Net: NetName=EXP_08 Pin=HDR-16
+Change Net Name : Old Net Name=PROBE_CH1 New Net Name=PROBE_CH2
+Change Net Name : Old Net Name=PROBE_CH2 New Net Name=PROBE_CH1
