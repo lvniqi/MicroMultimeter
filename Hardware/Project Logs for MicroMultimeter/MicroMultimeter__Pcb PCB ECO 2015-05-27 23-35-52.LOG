@@ -1,0 +1,8 @@
+Added Component: Designator=OLED(HDR1X4)
+Added Pin To Net: NetName=3V3 Pin=OLED-1
+Added Pin To Net: NetName=GND Pin=OLED-2
+Added Pin To Net: NetName=NetU1_13 Pin=OLED-3
+Added Pin To Net: NetName=NetU1_16 Pin=OLED-4
+Change Net Name : Old Net Name=NetU1_13 New Net Name=OLED_SDA
+Change Net Name : Old Net Name=NetU1_16 New Net Name=OLED_SCL
+Added Class: Name=U_MicroMultimeter_OLED_Sch

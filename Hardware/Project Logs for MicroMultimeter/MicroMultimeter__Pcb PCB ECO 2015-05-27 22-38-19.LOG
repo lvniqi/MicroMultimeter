@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=EXP_07 Pin=HDR-15
+Removed Pin From Net: NetName=EXP_08 Pin=HDR-16
+Removed Pin From Net: NetName=GND Pin=HDR-17
+Removed Pin From Net: NetName=GND Pin=HDR-18
+Change Component Designator: OldDesignator= NewDesignator=MircoUSB
+Added Pin To Net: NetName=GND Pin=HDR-15
+Added Pin To Net: NetName=GND Pin=HDR-16
+Added Pin To Net: NetName=EXP_07 Pin=HDR-17
+Added Pin To Net: NetName=EXP_08 Pin=HDR-18
+Added Member To Class: ClassName=USB Member=Component MircoUSB USB_Micro
+Added Member To Class: ClassName=MCU Member=Component U1 STM32L151C8T6

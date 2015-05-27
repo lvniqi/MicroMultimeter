@@ -1,31 +1,53 @@
 Protel Design System Design Rule Check
 PCB File : E:\WORKSPACE\MicroMultimeter\Hardware\MicroMultimeter__Pcb.PcbDoc
 Date     : 2015-05-27
-Time     : 20:30:53
+Time     : 23:53:38
 
-Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Processing Rule : Clearance Constraint (Gap=6mil) (InPolygon),(All)
 Rule Violations :0
 
-Processing Rule : Un-Routed Net Constraint ( (All) )
+Processing Rule : Net Antennae (Tolerance=0mil) (All)
 Rule Violations :0
 
-Processing Rule : Clearance Constraint (Gap=6mil) (All),(All)
+Processing Rule : Silk to Silk (Clearance=0mil) (All),(All)
 Rule Violations :0
 
-Processing Rule : Power Plane Connect Rule(Direct Connect )(Expansion=20mil) (Conductor Width=20mil) (Air Gap=10mil) (Entries=4) (All)
-Rule Violations :0
-
-Processing Rule : Width Constraint (Min=6mil) (Max=64mil) (Preferred=10mil) (All)
-Rule Violations :0
-
-Processing Rule : Height Constraint (Min=0mil) (Max=5000mil) (Prefered=500mil) (All)
-Rule Violations :0
-
-Processing Rule : Hole Size Constraint (Min=1mil) (Max=200mil) (All)
-Rule Violations :0
-
-Processing Rule : Hole To Hole Clearance (Gap=6mil) (All),(All)
-Rule Violations :0
+Processing Rule : Silk To Solder Mask (Clearance=1mil) (IsPad),(All)
+   Violation between Pad ST-LINK1-3(530mil,105mil)  Multi-Layer and 
+                     Arc (505.98mil,146.234mil)  Top Overlay
+   Violation between Pad ST-LINK1-3(530mil,105mil)  Multi-Layer and 
+                     Arc (505.98mil,146.234mil)  Bottom Overlay
+   Violation between Text "R29" (1067.5mil,476.5mil)  Top Overlay and 
+                     Pad R23-1(1047mil,550mil)  Top Layer
+   Violation between Text "R26" (951.5mil,460.51mil)  Top Overlay and 
+                     Pad R25-1(937mil,495.254mil)  Top Layer
+   Violation between Track (835mil,416.024mil)(1374.055mil,416.024mil)  Top Overlay and 
+                     Pad R26-2(938mil,435mil)  Top Layer
+   Violation between Track (835mil,416.024mil)(1374.055mil,416.024mil)  Top Overlay and 
+                     Pad R26-1(1002mil,435mil)  Top Layer
+   Violation between Text "MC_2" (1155mil,740mil)  Top Overlay and 
+                     Pad D1-2(1145mil,863mil)  Top Layer
+   Violation between Text "OLED" (773.5mil,993.5mil)  Top Overlay and 
+                     Pad MircoUSB-5(766.611mil,923.234mil)  Multi-Layer
+   Violation between Text "OLED" (773.5mil,993.5mil)  Top Overlay and 
+                     Pad MircoUSB-5(843.382mil,798.234mil)  Multi-Layer
+   Violation between Text "U18" (1293.5mil,309.5mil)  Bottom Overlay and 
+                     Pad MC-1(1315mil,355mil)  Multi-Layer
+   Violation between Text "R22" (1165mil,215mil)  Bottom Overlay and 
+                     Pad R22-2(1093mil,195mil)  Bottom Layer
+   Violation between Text "R22" (1165mil,215mil)  Bottom Overlay and 
+                     Pad R22-1(1157mil,195mil)  Bottom Layer
+   Violation between Text "R22" (1165mil,215mil)  Bottom Overlay and 
+                     Pad C7-2(1077mil,250mil)  Bottom Layer
+   Violation between Text "R22" (1165mil,215mil)  Bottom Overlay and 
+                     Pad R24-2(1163mil,260mil)  Bottom Layer
+   Violation between Text "R24" (1240mil,285mil)  Bottom Overlay and 
+                     Pad U18-1(1220mil,353.307mil)  Bottom Layer
+   Violation between Text "R24" (1240mil,285mil)  Bottom Overlay and 
+                     Pad U18-2(1170mil,353.307mil)  Bottom Layer
+   Violation between Text "R27" (1040mil,720mil)  Bottom Overlay and 
+                     Pad C1-2(962.981mil,771.234mil)  Bottom Layer
+Rule Violations :17
 
 Processing Rule : Minimum Solder Mask Sliver (Gap=4mil) (All),(All)
    Violation between Pad U1-47(773.981mil,459.304mil)  Top Layer and 
@@ -44,10 +66,10 @@ Processing Rule : Minimum Solder Mask Sliver (Gap=4mil) (All),(All)
                      Pad U1-42(704.384mil,389.707mil)  Top Layer
    Violation between Pad U1-40(676.545mil,361.868mil)  Top Layer and 
                      Pad U1-41(690.465mil,375.788mil)  Top Layer
-   Violation between Pad U1-39(662.626mil,347.949mil)  Top Layer and 
+   Violation between Pad U1-39(662.626mil,347.948mil)  Top Layer and 
                      Pad U1-40(676.545mil,361.868mil)  Top Layer
    Violation between Pad U1-38(648.706mil,334.029mil)  Top Layer and 
-                     Pad U1-39(662.626mil,347.949mil)  Top Layer
+                     Pad U1-39(662.626mil,347.948mil)  Top Layer
    Violation between Pad U1-37(634.787mil,320.11mil)  Top Layer and 
                      Pad U1-38(648.706mil,334.029mil)  Top Layer
    Violation between Pad U1-35(548.486mil,334.029mil)  Top Layer and 
@@ -80,17 +102,25 @@ Processing Rule : Minimum Solder Mask Sliver (Gap=4mil) (All),(All)
                      Pad U1-22(437.131mil,573.443mil)  Top Layer
    Violation between Pad U1-20(464.97mil,601.282mil)  Top Layer and 
                      Pad U1-21(451.05mil,587.363mil)  Top Layer
+   Violation between Via (495.835mil,570.417mil) Top Layer to Bottom Layer and 
+                     Pad U1-21(451.05mil,587.363mil)  Top Layer
    Violation between Pad U1-19(478.889mil,615.202mil)  Top Layer and 
                      Pad U1-20(464.97mil,601.282mil)  Top Layer
    Violation between Pad U1-18(492.809mil,629.121mil)  Top Layer and 
+                     Pad U1-19(478.889mil,615.202mil)  Top Layer
+   Violation between Via (495.835mil,570.417mil) Top Layer to Bottom Layer and 
                      Pad U1-19(478.889mil,615.202mil)  Top Layer
    Violation between Pad U1-17(506.728mil,643.04mil)  Top Layer and 
                      Pad U1-18(492.809mil,629.121mil)  Top Layer
    Violation between Pad U1-16(520.648mil,656.96mil)  Top Layer and 
                      Pad U1-17(506.728mil,643.04mil)  Top Layer
+   Violation between Via (551.513mil,626.095mil) Top Layer to Bottom Layer and 
+                     Pad U1-17(506.728mil,643.04mil)  Top Layer
    Violation between Pad U1-15(534.567mil,670.879mil)  Top Layer and 
                      Pad U1-16(520.648mil,656.96mil)  Top Layer
    Violation between Pad U1-14(548.486mil,684.799mil)  Top Layer and 
+                     Pad U1-15(534.567mil,670.879mil)  Top Layer
+   Violation between Via (551.513mil,626.095mil) Top Layer to Bottom Layer and 
                      Pad U1-15(534.567mil,670.879mil)  Top Layer
    Violation between Pad U1-13(562.406mil,698.718mil)  Top Layer and 
                      Pad U1-14(548.486mil,684.799mil)  Top Layer
@@ -116,66 +146,38 @@ Processing Rule : Minimum Solder Mask Sliver (Gap=4mil) (All),(All)
                      Pad U1-3(760.062mil,573.443mil)  Top Layer
    Violation between Pad U1-1(787.9mil,545.605mil)  Top Layer and 
                      Pad U1-2(773.981mil,559.524mil)  Top Layer
-   Violation between Via (430mil,810mil) Top Layer to Bottom Layer and 
-                     Pad R15-1(397mil,790mil)  Bottom Layer
-   Violation between Via (1225mil,500mil) Top Layer to Bottom Layer and 
-                     Pad U18-8(1220mil,560mil)  Bottom Layer
    Violation between Via (980mil,260mil) Top Layer to Bottom Layer and 
                      Pad C7-1(1013mil,250mil)  Bottom Layer
-   Violation between Via (430mil,810mil) Top Layer to Bottom Layer and 
-                     Via (440mil,780mil) Top Layer to Bottom Layer
-Rule Violations :48
+   Violation between Via (1225mil,500mil) Top Layer to Bottom Layer and 
+                     Pad U18-8(1220mil,560mil)  Bottom Layer
+   Violation between Via (430mil,790mil) Top Layer to Bottom Layer and 
+                     Pad R15-1(397mil,790mil)  Bottom Layer
+Rule Violations :51
 
-Processing Rule : Silk To Solder Mask (Clearance=1mil) (IsPad),(All)
-   Violation between Pad ST-LINK1-3(485mil,100mil)  Multi-Layer and 
-                     Arc (505.98mil,146.234mil)  Top Overlay
-   Violation between Pad ST-LINK1-3(485mil,100mil)  Multi-Layer and 
-                     Arc (505.98mil,146.234mil)  Bottom Overlay
-   Violation between Text "R25" (822.5mil,481.754mil)  Top Overlay and 
-                     Pad U1-48(787.9mil,473.224mil)  Top Layer
-   Violation between Text "R25" (822.5mil,481.754mil)  Top Overlay and 
-                     Pad U1-1(787.9mil,545.605mil)  Top Layer
-   Violation between Track (835mil,416.024mil)(1374.055mil,416.024mil)  Top Overlay and 
-                     Pad R26-1(1002mil,435mil)  Top Layer
-   Violation between Track (835mil,416.024mil)(1374.055mil,416.024mil)  Top Overlay and 
-                     Pad R26-2(938mil,435mil)  Top Layer
-   Violation between Text "R8" (946.5mil,495.5mil)  Top Overlay and 
-                     Pad R25-1(937mil,495.254mil)  Top Layer
-   Violation between Text "R26" (887.5mil,421.5mil)  Top Overlay and 
-                     Pad R25-2(873mil,495.254mil)  Top Layer
-   Violation between Text "R29" (1067.5mil,476.5mil)  Top Overlay and 
-                     Pad R23-1(1047mil,550mil)  Top Layer
-   Violation between Text "R23" (932.5mil,536.5mil)  Top Overlay and 
-                     Pad R8-1(937mil,550mil)  Top Layer
-   Violation between Text "R18" (185.571mil,678.824mil)  Top Overlay and 
-                     Pad HDR-6(100mil,749.999mil)  Top Layer
-   Violation between Text "C101" (1248.5mil,492.5mil)  Top Overlay and 
-                     Pad R29-1(1182mil,490mil)  Top Layer
-   Violation between Text "R28" (1237.5mil,568.5mil)  Top Overlay and 
-                     Pad C101-1(1235mil,543mil)  Top Layer
-   Violation between Text "C101" (1248.5mil,492.5mil)  Top Overlay and 
-                     Pad C31-2(1182mil,445mil)  Top Layer
-   Violation between Text "R22" (1042.5mil,208.5mil)  Bottom Overlay and 
-                     Pad MC-3(1059.095mil,111.339mil)  Multi-Layer
-   Violation between Text "U18" (1293.5mil,309.5mil)  Bottom Overlay and 
-                     Pad MC-1(1315mil,355mil)  Multi-Layer
-   Violation between Text "R27" (1038.5mil,732.5mil)  Bottom Overlay and 
-                     Pad C1-2(962.981mil,771.234mil)  Bottom Layer
-   Violation between Text "R24" (1112.5mil,273.5mil)  Bottom Overlay and 
-                     Pad C7-2(1077mil,250mil)  Bottom Layer
-   Violation between Text "R24" (1112.5mil,273.5mil)  Bottom Overlay and 
-                     Pad R22-2(1093mil,195mil)  Bottom Layer
-Rule Violations :19
-
-Processing Rule : Silk to Silk (Clearance=0mil) (All),(All)
+Processing Rule : Hole To Hole Clearance (Gap=6mil) (All),(All)
 Rule Violations :0
 
-Processing Rule : Net Antennae (Tolerance=0mil) (All)
+Processing Rule : Hole Size Constraint (Min=1mil) (Max=200mil) (All)
 Rule Violations :0
 
-Processing Rule : Clearance Constraint (Gap=6mil) (InPolygon),(All)
+Processing Rule : Height Constraint (Min=0mil) (Max=5000mil) (Prefered=500mil) (All)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=6mil) (Max=64mil) (Preferred=10mil) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Direct Connect )(Expansion=20mil) (Conductor Width=20mil) (Air Gap=10mil) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=6mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
 Rule Violations :0
 
 
-Violations Detected : 67
+Violations Detected : 68
 Time Elapsed        : 00:00:01
