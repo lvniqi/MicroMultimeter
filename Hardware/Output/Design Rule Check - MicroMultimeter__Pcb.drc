@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : E:\WORKSPACE\MicroMultimeter\Hardware\MicroMultimeter__Pcb.PcbDoc
 Date     : 2015-05-28
-Time     : 00:20:27
+Time     : 16:15:07
 
 Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
    Violation between Pad KEY_U-0(455.006mil,120mil)  Multi-Layer and 
@@ -11,10 +11,9 @@ Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
 Rule Violations :2
 
 Processing Rule : Un-Routed Net Constraint ( (All) )
-   Violation between Un-Routed Net Constraint: Net GND Between Pad R13-1 (687,75mil) And Pad R12-1 (687,75mil)
-   Violation between Un-Routed Net Constraint: Net GND Between Pad HDR-16 (100,250mil) And Pad HDR-15 (100,250mil)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad R12-1 (687,75mil) And Pad R13-1 (687,75mil)
    Violation between Un-Routed Net Constraint: Net GND Between Pad C31-1 (1118,445mil) And Pad R29-2 (1118,490mil)
-   Violation between Un-Routed Net Constraint: Net GND Between Track on layer Top Layer (205,285mil) And Via (245,315mil)
+   Violation between Un-Routed Net Constraint: Net GND Between Track on layer Bottom Layer (205,285mil) And Via (245,315mil)
    Violation between Un-Routed Net Constraint: Net GND Between Track on layer Top Layer (200.001,749.999mil) And Via (225,815mil)
    Violation between Un-Routed Net Constraint: Net GND Between Pad R26-1 (1002,435mil) And Track on layer Top Layer (1070,397mil)
    Violation between Un-Routed Net Constraint: Net GND Between Track on layer Top Layer (747.382,485mil) And Pad C11-1 (753.607,598.861mil)
@@ -22,6 +21,7 @@ Processing Rule : Un-Routed Net Constraint ( (All) )
    Violation between Un-Routed Net Constraint: Net GND Between Pad C8-1 (1080,682mil) And Track on layer Bottom Layer (1095.351,798.234mil)
    Violation between Un-Routed Net Constraint: Net GND Between Track on layer Top Layer (585.98,371.234mil) And Track on layer Bottom Layer (665.98,426.747mil)
    Violation between Un-Routed Net Constraint: Net GND Between Track on layer Top Layer (200.001,749.999mil) And Pad R20-1 (238,640mil)
+   Violation between Un-Routed Net Constraint: Net GND Between Via (245,315mil) And Pad R32-1 (302.373,417.627mil)
    Violation between Un-Routed Net Constraint: Net GND Between Pad U1-23 (423.212,559.524mil) And Via (570.98,576.233mil)
    Violation between Un-Routed Net Constraint: Net GND Between Pad Free-0 (1295,925mil) And Pad MC_2-1 (1325,785mil)
    Violation between Un-Routed Net Constraint: Net GND Between Track on layer Bottom Layer (593.607,358.861mil) And Pad ST-LINK1-2 (605,195mil)
@@ -29,9 +29,9 @@ Processing Rule : Un-Routed Net Constraint ( (All) )
    Violation between Un-Routed Net Constraint: Net GND Between Pad R23-1 (1047,550mil) And Pad C8-1 (1080,682mil)
    Violation between Un-Routed Net Constraint: Net GND Between Via (570.98,576.233mil) And Pad U1-8 (690.465,643.041mil)
    Violation between Un-Routed Net Constraint: Net GND Between Pad R20-1 (238,640mil) And Track on layer Top Layer (365,572.892mil)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad R32-1 (302.373,417.627mil) And Track on layer Bottom Layer (365,555mil)
    Violation between Un-Routed Net Constraint: 
    Violation between Un-Routed Net Constraint: Net GND Between Pad ST-LINK1-2 (605,195mil) And Pad R12-1 (687,75mil)
-   Violation between Un-Routed Net Constraint: Net GND Between Via (245,315mil) And Pad U1-35 (548.486,334.029mil)
 Rule Violations :21
 
 Processing Rule : Clearance Constraint (Gap=6mil) (All),(All)
@@ -186,10 +186,16 @@ Processing Rule : Silk To Solder Mask (Clearance=1mil) (IsPad),(All)
                      Pad MC-1(1315mil,355mil)  Multi-Layer
    Violation between Text "OLED" (773.5mil,993.5mil)  Top Overlay and 
                      Pad MircoUSB-5(766.611mil,923.234mil)  Multi-Layer
+   Violation between Text "R32" (373.79mil,327.118mil)  Bottom Overlay and 
+                     Pad R31-2(432.627mil,387.627mil)  Bottom Layer
+   Violation between Text "R32" (373.79mil,327.118mil)  Bottom Overlay and 
+                     Pad R31-1(387.373mil,342.373mil)  Bottom Layer
    Violation between Text "KEY_D" (630.5mil,-29.5mil)  Bottom Overlay and 
                      Pad R13-2(623mil,75mil)  Bottom Layer
    Violation between Text "R13" (572.5mil,88.5mil)  Bottom Overlay and 
                      Pad KEY_D-2(555mil,27.905mil)  Bottom Layer
+   Violation between Text "R31" (477.882mil,413.79mil)  Bottom Overlay and 
+                     Pad C4-2(438.607mil,498.606mil)  Bottom Layer
    Violation between Text "R27" (1040mil,720mil)  Bottom Overlay and 
                      Pad C1-2(962.981mil,771.234mil)  Bottom Layer
    Violation between Text "R24" (1240mil,285mil)  Bottom Overlay and 
@@ -204,18 +210,19 @@ Processing Rule : Silk To Solder Mask (Clearance=1mil) (IsPad),(All)
                      Pad R22-1(1157mil,195mil)  Bottom Layer
    Violation between Text "R22" (1165mil,215mil)  Bottom Overlay and 
                      Pad R22-2(1093mil,195mil)  Bottom Layer
-Rule Violations :21
+Rule Violations :24
 
 Processing Rule : Silk to Silk (Clearance=0mil) (All),(All)
 Rule Violations :0
 
 Processing Rule : Net Antennae (Tolerance=0mil) (All)
    Violation between Net Antennae: Track (100mil,749.999mil)(200.001mil,749.999mil)  Top Layer
-Rule Violations :1
+   Violation between Net Antennae: Track (922.254mil,487.254mil)(960mil,487.254mil)  Bottom Layer
+Rule Violations :2
 
 Processing Rule : Clearance Constraint (Gap=6mil) (InPolygon),(All)
 Rule Violations :0
 
 
-Violations Detected : 98
-Time Elapsed        : 00:00:01
+Violations Detected : 102
+Time Elapsed        : 00:00:02
