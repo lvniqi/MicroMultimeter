@@ -1,0 +1,15 @@
+Added Pin To Net: NetName=5V Pin=MircoUSB-1
+Added Pin To Net: NetName=GND Pin=MircoUSB-5
+Added Pin To Net: NetName=GND Pin=MircoUSB-5
+Added Pin To Net: NetName=GND Pin=MircoUSB-5
+Added Pin To Net: NetName=GND Pin=MircoUSB-5
+Added Pin To Net: NetName=GND Pin=MircoUSB-5
+Added Pin To Net: NetName=NetMircoUSB_2 Pin=MircoUSB-2
+Added Pin To Net: NetName=NetMircoUSB_2 Pin=R2-1
+Added Net: Name=NetMircoUSB_2
+Added Pin To Net: NetName=NetMircoUSB_3 Pin=MircoUSB-3
+Added Pin To Net: NetName=NetMircoUSB_3 Pin=R1-2
+Added Pin To Net: NetName=NetMircoUSB_3 Pin=R3-1
+Added Net: Name=NetMircoUSB_3
+Added Pin To Net: NetName=NetMircoUSB_4 Pin=MircoUSB-4
+Added Net: Name=NetMircoUSB_4

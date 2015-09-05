@@ -1,0 +1,14 @@
+Added Component: Designator=MC_1(HDR1X2)
+Added Component: Designator=MC_2(HDR1X2)
+Added Pin To Net: NetName=NetMC_1 Pin=MC_1-2
+Added Pin To Net: NetName=GND Pin=MC_2-1
+Added Pin To Net: NetName=NetMC_2 Pin=MC_2-2
+Added Pin To Net: NetName=ADC_IN Pin=MC-4
+Added Pin To Net: NetName=ADC_IN Pin=MC-4
+Added Net: Name=ADC_IN
+Added Pin To Net: NetName=DAC_OUT Pin=MC_1-1
+Added Net: Name=DAC_OUT
+Added Pin To Net: NetName=NetMC_3 Pin=MC-3
+Added Net: Name=NetMC_3
+Added Member To Class: ClassName=U_MicroMultimeter_PHONECNT_Sch Member=Component MC_1 Header 2
+Added Member To Class: ClassName=U_MicroMultimeter_PHONECNT_Sch Member=Component MC_2 Header 2

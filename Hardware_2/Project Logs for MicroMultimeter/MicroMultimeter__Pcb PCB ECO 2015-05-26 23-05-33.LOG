@@ -1,0 +1,32 @@
+Removed Pin From Net: NetName=GND Pin=KEY-0
+Removed Pin From Net: NetName=GND Pin=KEY-0
+Removed Pin From Net: NetName=GND Pin=KEY-0
+Removed Pin From Net: NetName=GND Pin=KEY-0
+Removed Pin From Net: NetName=GND Pin=KEY-4
+Removed Pin From Net: NetName=GND Pin=KEY_D-0
+Removed Pin From Net: NetName=3V3 Pin=KEY_D-4
+Removed Pin From Net: NetName=3V3 Pin=KEY_U-3
+Removed Pin From Net: NetName=3V3 Pin=R9-2
+Removed Pin From Net: NetName=3V3 Pin=R10-2
+Removed Pin From Net: NetName=3V3 Pin=R11-2
+Removed Pin From Net: NetName=GND Pin=R12-1
+Removed Pin From Net: NetName=GND Pin=R13-1
+Added Pin To Net: NetName=NetU1_10 Pin=U1-10
+Added Net: Name=NetU1_10
+Added Pin To Net: NetName=NetU1_20 Pin=U1-20
+Added Net: Name=NetU1_20
+Added Pin To Net: NetName=NetU1_43 Pin=U1-43
+Added Net: Name=NetU1_43
+Added Pin To Net: NetName=NetU1_45 Pin=U1-45
+Added Net: Name=NetU1_45
+Added Pin To Net: NetName=NetU1_46 Pin=U1-46
+Added Net: Name=NetU1_46
+Added Room: Name=BUZZER
+Added Room: Name=EXP
+Added Room: Name=LED
+Added Room: Name=MCU
+Added Room: Name=OLED
+Added Room: Name=PROBE
+Added Room: Name=PWR
+Added Room: Name=SWD
+Added Room: Name=USB

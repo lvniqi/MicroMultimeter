@@ -1,0 +1,6 @@
+Added Component: Designator=S2(SB-4)
+Added Pin To Net: NetName=Net*1_5 Pin=S2-1
+Added Pin To Net: NetName=Net*1_5 Pin=S2-1
+Added Pin To Net: NetName=NetC7_1 Pin=S2-2
+Added Pin To Net: NetName=NetC7_1 Pin=S2-2
+Added Member To Class: ClassName=U_ETA9640 Member=Component S2 SW-SPST

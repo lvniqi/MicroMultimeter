@@ -1,0 +1,22 @@
+Added Component: Designator=HDR(HDR2X10_2.54_180HF)
+Added Pin To Net: NetName=5V Pin=HDR-1
+Added Pin To Net: NetName=5V Pin=HDR-2
+Added Pin To Net: NetName=3V3 Pin=HDR-3
+Added Pin To Net: NetName=3V3 Pin=HDR-4
+Added Pin To Net: NetName=NetHDR_5 Pin=HDR-5
+Added Pin To Net: NetName=GND Pin=HDR-6
+Added Pin To Net: NetName=NetHDR_7 Pin=HDR-7
+Added Pin To Net: NetName=NetHDR_8 Pin=HDR-8
+Added Pin To Net: NetName=NetHDR_9 Pin=HDR-9
+Added Pin To Net: NetName=NetHDR_10 Pin=HDR-10
+Added Pin To Net: NetName=NetHDR_11 Pin=HDR-11
+Added Pin To Net: NetName=NetHDR_12 Pin=HDR-12
+Added Pin To Net: NetName=NetHDR_13 Pin=HDR-13
+Added Pin To Net: NetName=NetHDR_14 Pin=HDR-14
+Added Pin To Net: NetName=GND Pin=HDR-15
+Added Pin To Net: NetName=NetHDR_16 Pin=HDR-16
+Added Pin To Net: NetName=NetHDR_17 Pin=HDR-17
+Added Pin To Net: NetName=NetHDR_18 Pin=HDR-18
+Added Pin To Net: NetName=NetHDR_19 Pin=HDR-19
+Added Pin To Net: NetName=NetHDR_20 Pin=HDR-20
+Added Member To Class: ClassName=U_EXP Member=Component HDR HDR2x10_2.54

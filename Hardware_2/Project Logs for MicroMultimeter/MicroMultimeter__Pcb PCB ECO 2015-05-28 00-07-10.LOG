@@ -1,0 +1,15 @@
+Added Component: Designator=KEY_D(ButtonTACT_3.5*3.55_90)
+Added Component: Designator=KEY_U(ButtonTACT_3.5*3.55_90)
+Added Component: Designator=R12(RES_0603)
+Added Component: Designator=R13(RES_0603)
+Added Pin To Net: NetName=3V3 Pin=KEY_D-4
+Added Pin To Net: NetName=3V3 Pin=KEY_U-3
+Added Pin To Net: NetName=GND Pin=R12-1
+Added Pin To Net: NetName=GND Pin=R13-1
+Added Pin To Net: NetName=NetKEY_D_3 Pin=KEY_D-3
+Added Pin To Net: NetName=NetKEY_D_3 Pin=R13-2
+Added Net: Name=NetKEY_D_3
+Added Pin To Net: NetName=NetKEY_U_4 Pin=KEY_U-4
+Added Pin To Net: NetName=NetKEY_U_4 Pin=R12-2
+Added Net: Name=NetKEY_U_4
+Added Class: Name=U_MicroMultimeter_KEY_Sch

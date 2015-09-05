@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=NetR22_1 Pin=R24-2
+Removed Pin From Net: NetName=NetR22_1 Pin=U18-2
+Removed Pin From Net: NetName=1V Pin=U18-3
+Change Component Designator: OldDesignator=  NewDesignator=MircoUSB
+Added Pin To Net: NetName=1V Pin=R24-2
+Added Pin To Net: NetName=1V Pin=U18-2
+Added Pin To Net: NetName=NetR22_1 Pin=U18-3
+Added Member To Class: ClassName=USB Member=Component MircoUSB USB_Micro

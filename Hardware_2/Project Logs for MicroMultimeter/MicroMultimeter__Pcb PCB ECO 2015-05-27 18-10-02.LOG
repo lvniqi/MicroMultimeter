@@ -1,0 +1,17 @@
+Added Component: Designator=C101(CAP_0603)
+Added Component: Designator=R28(RES_0603)
+Added Component: Designator=R29(RES_0603)
+Added Pin To Net: NetName=NetU18_6 Pin=R28-1
+Added Pin To Net: NetName=GND Pin=R29-2
+Change Net Name : Old Net Name=NetU18_6 New Net Name=NetR28_1
+Added Pin To Net: NetName=NetC101_1 Pin=C101-1
+Added Pin To Net: NetName=NetC101_1 Pin=R28-2
+Added Pin To Net: NetName=NetC101_1 Pin=R29-1
+Added Net: Name=NetC101_1
+Added Pin To Net: NetName=TO_PHONE Pin=C101-2
+Added Pin To Net: NetName=TO_PHONE Pin=MC_1-1
+Added Net: Name=TO_PHONE
+Added Member To Class: ClassName=MCU Member=Component C9 Cap_0603
+Added Member To Class: ClassName=U_MicroMultimeter_PHONECNT_Sch Member=Component C101 Cap
+Added Member To Class: ClassName=U_MicroMultimeter_PHONECNT_Sch Member=Component R28 Res_0603
+Added Member To Class: ClassName=U_MicroMultimeter_PHONECNT_Sch Member=Component R29 Res_0603

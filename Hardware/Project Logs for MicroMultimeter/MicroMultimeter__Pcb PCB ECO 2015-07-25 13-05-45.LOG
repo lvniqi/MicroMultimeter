@@ -1,0 +1,9 @@
+Added Component: Designator=MircoUSB(Micro_USB)
+Added Pin To Net: NetName=5V Pin=MircoUSB-1
+Added Pin To Net: NetName=NetMircoUSB_2 Pin=MircoUSB-2
+Added Pin To Net: NetName=NetMircoUSB_3 Pin=MircoUSB-3
+Added Pin To Net: NetName=NetMircoUSB_4 Pin=MircoUSB-4
+Added Pin To Net: NetName=GND Pin=MircoUSB-5
+Added Pin To Net: NetName=GND Pin=MircoUSB-5
+Added Pin To Net: NetName=GND Pin=MircoUSB-5
+Added Member To Class: ClassName=USB Member=Component MircoUSB USB_Micro

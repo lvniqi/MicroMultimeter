@@ -1,0 +1,9 @@
+Added Component: Designator=R278(RES_0603)
+Added Component: Designator=R279(RES_0603)
+Added Pin To Net: NetName=SOUND_OUT Pin=R278-1
+Added Pin To Net: NetName=GND Pin=R279-2
+Added Pin To Net: NetName=NetR278_2 Pin=R278-2
+Added Pin To Net: NetName=NetR278_2 Pin=R279-1
+Added Net: Name=NetR278_2
+Added Member To Class: ClassName=U_MicroMultimeter_PHONECNT_Sch Member=Component R278 Res_0603
+Added Member To Class: ClassName=U_MicroMultimeter_PHONECNT_Sch Member=Component R279 Res_0603

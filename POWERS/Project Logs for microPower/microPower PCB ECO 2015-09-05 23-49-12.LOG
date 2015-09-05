@@ -1,0 +1,21 @@
+Removed Pin From Net: NetName=GND Pin=USB-+
+Removed Pin From Net: NetName=Net*1_5 Pin=USB--
+Change Component Designator: OldDesignator=USB NewDesignator=USB1
+Added Component: Designator=R4(RES_0603)
+Added Component: Designator=R5(RES_0603)
+Added Component: Designator=R6(RES_0603)
+Added Pin To Net: NetName=Net*1_5 Pin=R4-2
+Added Pin To Net: NetName=GND Pin=R6-1
+Added Pin To Net: NetName=Net*1_5 Pin=USB1-+
+Added Pin To Net: NetName=GND Pin=USB1--
+Added Pin To Net: NetName=NetR4_1 Pin=R4-1
+Added Pin To Net: NetName=NetR4_1 Pin=R5-2
+Added Pin To Net: NetName=NetR4_1 Pin=USB1-DM
+Added Net: Name=NetR4_1
+Added Pin To Net: NetName=NetR5_1 Pin=R5-1
+Added Pin To Net: NetName=NetR5_1 Pin=R6-2
+Added Pin To Net: NetName=NetR5_1 Pin=USB1-DP
+Added Net: Name=NetR5_1
+Added Member To Class: ClassName=U_ETA9640 Member=Component R4 Res2
+Added Member To Class: ClassName=U_ETA9640 Member=Component R5 Res2
+Added Member To Class: ClassName=U_ETA9640 Member=Component R6 Res2

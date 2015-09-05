@@ -1,0 +1,2 @@
+Change Component Library : Designator=MircoUSB Old Library=SCH_USB.SchLib New Library=MicroMultimeter_SIGNAL_Sch_Lib.SchLib
+Added Member To Class: ClassName=USB Member=Component MircoUSB USB_Micro

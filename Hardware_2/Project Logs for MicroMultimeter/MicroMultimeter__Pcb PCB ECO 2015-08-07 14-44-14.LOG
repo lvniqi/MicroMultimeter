@@ -1,0 +1,6 @@
+Added Component: Designator=MC(MIRCOPHONE_2)
+Added Pin To Net: NetName=NetMC_1 Pin=MC-1
+Added Pin To Net: NetName=NetMC_1 Pin=MC-1
+Added Pin To Net: NetName=NetMC_2 Pin=MC-2
+Added Pin To Net: NetName=SOUND_IN_L Pin=MC-4
+Added Member To Class: ClassName=U_MicroMultimeter_PHONECNT_Sch Member=Component MC Header 4

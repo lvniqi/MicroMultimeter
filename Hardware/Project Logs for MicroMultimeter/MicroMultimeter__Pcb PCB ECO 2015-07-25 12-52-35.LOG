@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=5V Pin=MircoUSB-1
+Removed Pin From Net: NetName=GND Pin=MircoUSB-5
+Removed Pin From Net: NetName=GND Pin=MircoUSB-5
+Removed Pin From Net: NetName=GND Pin=MircoUSB-5
+Removed Pin From Net: NetName=GND Pin=MircoUSB-5
+Removed Pin From Net: NetName=GND Pin=MircoUSB-5
+Removed Pin From Net: NetName=GND Pin=MircoUSB-5
+Removed Pin From Net: NetName=GND Pin=MircoUSB-5
+Change Component Footprint: Designator=MircoUSB Old Footprint=USB_Micro-AB New Footprint=Micro_USB
+Added Pin To Net: NetName=NetR1_2 Pin=R1-2
+Added Pin To Net: NetName=NetR1_2 Pin=R3-1
+Added Net: Name=NetR1_2

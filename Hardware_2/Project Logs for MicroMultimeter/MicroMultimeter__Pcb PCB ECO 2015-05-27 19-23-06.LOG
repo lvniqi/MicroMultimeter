@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=GND Pin=HDR-5
+Removed Pin From Net: NetName=GND Pin=HDR-6
+Removed Pin From Net: NetName=DAC_OUT Pin=HDR-17
+Added Pin To Net: NetName=DAC_OUT Pin=HDR-5
+Added Pin To Net: NetName=GND Pin=HDR-17
+Added Pin To Net: NetName=GND Pin=HDR-18

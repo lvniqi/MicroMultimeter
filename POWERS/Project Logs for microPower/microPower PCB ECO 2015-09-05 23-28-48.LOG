@@ -1,0 +1,66 @@
+Removed Pin From Net: NetName=Net*1_1 Pin=HDR-1
+Removed Pin From Net: NetName=Net*1_1 Pin=HDR-2
+Removed Pin From Net: NetName=NetHDR_3 Pin=HDR-3
+Removed Pin From Net: NetName=NetHDR_3 Pin=HDR-4
+Removed Pin From Net: NetName=NetHDR_5 Pin=HDR-5
+Removed Pin From Net: NetName=GND Pin=HDR-6
+Removed Pin From Net: NetName=GND Pin=HDR-6
+Removed Pin From Net: NetName=NetHDR_7 Pin=HDR-7
+Removed Pin From Net: NetName=NetHDR_8 Pin=HDR-8
+Removed Pin From Net: NetName=NetHDR_9 Pin=HDR-9
+Removed Pin From Net: NetName=NetHDR_10 Pin=HDR-10
+Removed Pin From Net: NetName=NetHDR_11 Pin=HDR-11
+Removed Pin From Net: NetName=NetHDR_12 Pin=HDR-12
+Removed Pin From Net: NetName=NetHDR_13 Pin=HDR-13
+Removed Pin From Net: NetName=NetHDR_14 Pin=HDR-14
+Removed Pin From Net: NetName=GND Pin=HDR-15
+Removed Pin From Net: NetName=NetHDR_16 Pin=HDR-16
+Removed Pin From Net: NetName=NetHDR_17 Pin=HDR-17
+Removed Pin From Net: NetName=NetHDR_18 Pin=HDR-18
+Removed Pin From Net: NetName=NetHDR_19 Pin=HDR-19
+Removed Pin From Net: NetName=NetHDR_20 Pin=HDR-20
+Change Component Designator: OldDesignator=C4 NewDesignator=C5
+Change Component Designator: OldDesignator=C5 NewDesignator=C4
+Change Component Designator: OldDesignator=R4 NewDesignator=R2
+Added Component: Designator=HDR1(HDR2X10_2.54_180HF)
+Added Component: Designator=R3(RES_0603)
+Added Pin To Net: NetName=Net*1_1 Pin=HDR1-1
+Added Pin To Net: NetName=Net*1_1 Pin=HDR1-2
+Added Pin To Net: NetName=NetHDR_3 Pin=HDR1-3
+Added Pin To Net: NetName=NetHDR_3 Pin=HDR1-4
+Added Pin To Net: NetName=NetHDR_5 Pin=HDR1-5
+Added Pin To Net: NetName=GND Pin=HDR1-6
+Added Pin To Net: NetName=GND Pin=HDR1-6
+Added Pin To Net: NetName=NetHDR_7 Pin=HDR1-7
+Added Pin To Net: NetName=NetHDR_8 Pin=HDR1-8
+Added Pin To Net: NetName=NetHDR_9 Pin=HDR1-9
+Added Pin To Net: NetName=NetHDR_10 Pin=HDR1-10
+Added Pin To Net: NetName=NetHDR_11 Pin=HDR1-11
+Added Pin To Net: NetName=NetHDR_12 Pin=HDR1-12
+Added Pin To Net: NetName=NetHDR_13 Pin=HDR1-13
+Added Pin To Net: NetName=NetHDR_14 Pin=HDR1-14
+Added Pin To Net: NetName=GND Pin=HDR1-15
+Added Pin To Net: NetName=NetHDR_16 Pin=HDR1-16
+Added Pin To Net: NetName=NetHDR_17 Pin=HDR1-17
+Added Pin To Net: NetName=NetHDR_18 Pin=HDR1-18
+Added Pin To Net: NetName=NetHDR_19 Pin=HDR1-19
+Added Pin To Net: NetName=NetHDR_20 Pin=HDR1-20
+Added Pin To Net: NetName=GND Pin=R3-1
+Added Pin To Net: NetName=GND_S Pin=R3-2
+Change Net Name : Old Net Name=NetHDR_3 New Net Name=NetHDR1_3
+Change Net Name : Old Net Name=NetHDR_5 New Net Name=NetHDR1_5
+Change Net Name : Old Net Name=NetHDR_7 New Net Name=NetHDR1_7
+Change Net Name : Old Net Name=NetHDR_8 New Net Name=NetHDR1_8
+Change Net Name : Old Net Name=NetHDR_9 New Net Name=NetHDR1_9
+Change Net Name : Old Net Name=NetHDR_10 New Net Name=NetHDR1_10
+Change Net Name : Old Net Name=NetHDR_11 New Net Name=NetHDR1_11
+Change Net Name : Old Net Name=NetHDR_12 New Net Name=NetHDR1_12
+Change Net Name : Old Net Name=NetHDR_13 New Net Name=NetHDR1_13
+Change Net Name : Old Net Name=NetHDR_14 New Net Name=NetHDR1_14
+Change Net Name : Old Net Name=NetHDR_16 New Net Name=NetHDR1_16
+Change Net Name : Old Net Name=NetHDR_17 New Net Name=NetHDR1_17
+Change Net Name : Old Net Name=NetHDR_18 New Net Name=NetHDR1_18
+Change Net Name : Old Net Name=NetHDR_19 New Net Name=NetHDR1_19
+Change Net Name : Old Net Name=NetHDR_20 New Net Name=NetHDR1_20
+Added Member To Class: ClassName=U_EXP Member=Component HDR1 HDR2x10_2.54
+Added Member To Class: ClassName=U_ETA9640 Member=Component R3 Res2

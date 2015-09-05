@@ -1,0 +1,10 @@
+Change Net Name : Old Net Name=BUZZER New Net Name=NetU1_42
+Change Net Name : Old Net Name=PROBE_O1 New Net Name=PROBE_I0
+Added Net: Name=NetR15_1
+Added Net: Name=NetR15_2
+Added Net: Name=NetR18_1
+Added Net: Name=NetR18_2
+Added Net: Name=NetR19_1
+Added Net: Name=NetR21_1
+Added Net: Name=NetR222_1
+Added Class: Name=U_MicroMultimeter__MYPROBE_Sch

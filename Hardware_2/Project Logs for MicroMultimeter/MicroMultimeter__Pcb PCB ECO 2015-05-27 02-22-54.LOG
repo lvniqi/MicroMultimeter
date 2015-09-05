@@ -1,0 +1,12 @@
+Added Component: Designator=C7(RAD-0.3)
+Added Pin To Net: NetName=1.5V Pin=U18-3
+Added Net: Name=1.5V
+Added Pin To Net: NetName=NetC7_2 Pin=C7-2
+Added Net: Name=NetC7_2
+Added Pin To Net: NetName=NetR22_1 Pin=U18-2
+Added Net: Name=NetR22_1
+Added Pin To Net: NetName=NetR24_1 Pin=U18-1
+Added Net: Name=NetR24_1
+Added Pin To Net: NetName=SOUND_IN_L Pin=C7-1
+Added Net: Name=SOUND_IN_L
+Added Member To Class: ClassName=U_MicroMultimeter_PHONECNT_Sch Member=Component C7 Cap

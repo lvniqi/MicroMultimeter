@@ -1,0 +1,18 @@
+Added Net: Name=3V3
+Added Net: Name=5V
+Added Net: Name=NetHDR_5
+Added Net: Name=NetHDR_7
+Added Net: Name=NetHDR_8
+Added Net: Name=NetHDR_9
+Added Net: Name=NetHDR_10
+Added Net: Name=NetHDR_11
+Added Net: Name=NetHDR_12
+Added Net: Name=NetHDR_13
+Added Net: Name=NetHDR_14
+Added Net: Name=NetHDR_16
+Added Net: Name=NetHDR_17
+Added Net: Name=NetHDR_18
+Added Net: Name=NetHDR_19
+Added Net: Name=NetHDR_20
+Added Class: Name=U_EXP
+Added Member To Class: ClassName=U_ETA9640 Member=Component C4 Cap

@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=Net*1_5 Pin=C4-1
+Removed Pin From Net: NetName=GND Pin=C4-2
+Change Component DesignItemId : Designator=C4 Old DesignItemId=Cap Pol1 New DesignItemId=Cap
+Change Component Footprint: Designator=C4 Old Footprint=CB2 New Footprint=CAP_0603
+Change Component Comment : Designator=C4 Old Comment=Cap Pol1 New Comment=Cap
+Added Pin To Net: NetName=GND Pin=C4-1
+Added Pin To Net: NetName=Net*1_5 Pin=C4-2

@@ -1,0 +1,263 @@
+Protel Design System Design Rule Check
+PCB File : E:\WORKSPACE\MicroMultimeter\Hardware_2\MicroMultimeter__Pcb.PcbDoc
+Date     : 2015-08-07
+Time     : 14:56:08
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+   Violation between Pad KEY_U-0(455.006mil,120mil)  Multi-Layer and 
+                     Pad KEY_D-0(454.994mil,120mil)  Multi-Layer
+   Violation between Pad KEY_U-0(455mil,20mil)  Multi-Layer and 
+                     Pad KEY_D-0(455mil,20mil)  Multi-Layer
+Rule Violations :2
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=6mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Direct Connect )(Expansion=20mil) (Conductor Width=20mil) (Air Gap=10mil) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=6mil) (Max=64mil) (Preferred=10mil) (All)
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mil) (Max=5000mil) (Prefered=500mil) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=1mil) (Max=200mil) (All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=6mil) (All),(All)
+   Violation between Via (1065mil,110mil) Top Layer to Bottom Layer and 
+                     Pad MC-4(1055mil,100mil)  Multi-Layer
+   Violation between Pad MC-1(1295mil,100mil)  Multi-Layer and 
+                     Pad MC-1(1265mil,100mil)  Multi-Layer
+   Violation between Pad KEY_U-0(455.006mil,120mil)  Multi-Layer and 
+                     Pad KEY_D-0(454.994mil,120mil)  Multi-Layer
+   Violation between Pad KEY_U-0(455mil,20mil)  Multi-Layer and 
+                     Pad KEY_D-0(455mil,20mil)  Multi-Layer
+Rule Violations :4
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=4mil) (All),(All)
+   Violation between Pad MircoUSB-4(899.409mil,818.15mil)  Top Layer and 
+                     Pad R3-1(920.981mil,738.234mil)  Top Layer
+   Violation between Pad MircoUSB-3(925mil,818.15mil)  Top Layer and 
+                     Pad R3-1(920.981mil,738.234mil)  Top Layer
+   Violation between Pad MircoUSB-2(950.591mil,818.15mil)  Top Layer and 
+                     Pad R3-1(920.981mil,738.234mil)  Top Layer
+   Violation between Pad MircoUSB-2(950.591mil,818.15mil)  Top Layer and 
+                     Pad R2-1(970.981mil,738.234mil)  Top Layer
+   Violation between Pad MircoUSB-1(976.181mil,818.15mil)  Top Layer and 
+                     Pad R2-1(970.981mil,738.234mil)  Top Layer
+   Violation between Pad MircoUSB-5(873.819mil,818.15mil)  Top Layer and 
+                     Pad R1-2(870.981mil,738.234mil)  Top Layer
+   Violation between Pad MircoUSB-4(899.409mil,818.15mil)  Top Layer and 
+                     Pad R1-2(870.981mil,738.234mil)  Top Layer
+   Violation between Pad U1-2(773.981mil,559.524mil)  Top Layer and 
+                     Pad U1-1(787.9mil,545.605mil)  Top Layer
+   Violation between Pad U1-3(760.062mil,573.443mil)  Top Layer and 
+                     Pad U1-2(773.981mil,559.524mil)  Top Layer
+   Violation between Pad U1-4(746.142mil,587.363mil)  Top Layer and 
+                     Pad U1-3(760.062mil,573.443mil)  Top Layer
+   Violation between Pad U1-5(732.223mil,601.282mil)  Top Layer and 
+                     Pad U1-4(746.142mil,587.363mil)  Top Layer
+   Violation between Pad U1-6(718.303mil,615.202mil)  Top Layer and 
+                     Pad U1-5(732.223mil,601.282mil)  Top Layer
+   Violation between Pad U1-7(704.384mil,629.121mil)  Top Layer and 
+                     Pad U1-6(718.303mil,615.202mil)  Top Layer
+   Violation between Pad U1-8(690.465mil,643.041mil)  Top Layer and 
+                     Pad U1-7(704.384mil,629.121mil)  Top Layer
+   Violation between Pad U1-9(676.545mil,656.96mil)  Top Layer and 
+                     Pad U1-8(690.465mil,643.041mil)  Top Layer
+   Violation between Pad U1-10(662.626mil,670.879mil)  Top Layer and 
+                     Pad U1-9(676.545mil,656.96mil)  Top Layer
+   Violation between Pad U1-11(648.706mil,684.799mil)  Top Layer and 
+                     Pad U1-10(662.626mil,670.879mil)  Top Layer
+   Violation between Pad U1-12(634.787mil,698.718mil)  Top Layer and 
+                     Pad U1-11(648.706mil,684.799mil)  Top Layer
+   Violation between Pad U1-14(548.486mil,684.799mil)  Top Layer and 
+                     Pad U1-13(562.406mil,698.718mil)  Top Layer
+   Violation between Pad U1-15(534.567mil,670.879mil)  Top Layer and 
+                     Pad U1-14(548.486mil,684.799mil)  Top Layer
+   Violation between Pad U1-16(520.648mil,656.96mil)  Top Layer and 
+                     Pad U1-15(534.567mil,670.879mil)  Top Layer
+   Violation between Via (551.513mil,626.095mil) Top Layer to Bottom Layer and 
+                     Pad U1-15(534.567mil,670.879mil)  Top Layer
+   Violation between Pad U1-17(506.728mil,643.04mil)  Top Layer and 
+                     Pad U1-16(520.648mil,656.96mil)  Top Layer
+   Violation between Pad U1-18(492.809mil,629.121mil)  Top Layer and 
+                     Pad U1-17(506.728mil,643.04mil)  Top Layer
+   Violation between Via (551.513mil,626.095mil) Top Layer to Bottom Layer and 
+                     Pad U1-17(506.728mil,643.04mil)  Top Layer
+   Violation between Pad U1-19(478.889mil,615.202mil)  Top Layer and 
+                     Pad U1-18(492.809mil,629.121mil)  Top Layer
+   Violation between Pad U1-20(464.97mil,601.282mil)  Top Layer and 
+                     Pad U1-19(478.889mil,615.202mil)  Top Layer
+   Violation between Via (495.835mil,570.417mil) Top Layer to Bottom Layer and 
+                     Pad U1-19(478.889mil,615.202mil)  Top Layer
+   Violation between Pad U1-21(451.05mil,587.363mil)  Top Layer and 
+                     Pad U1-20(464.97mil,601.282mil)  Top Layer
+   Violation between Pad U1-22(437.131mil,573.443mil)  Top Layer and 
+                     Pad U1-21(451.05mil,587.363mil)  Top Layer
+   Violation between Via (495.835mil,570.417mil) Top Layer to Bottom Layer and 
+                     Pad U1-21(451.05mil,587.363mil)  Top Layer
+   Violation between Pad U1-23(423.212mil,559.524mil)  Top Layer and 
+                     Pad U1-22(437.131mil,573.443mil)  Top Layer
+   Violation between Pad U1-24(409.292mil,545.605mil)  Top Layer and 
+                     Pad U1-23(423.212mil,559.524mil)  Top Layer
+   Violation between Pad U1-26(423.212mil,459.304mil)  Top Layer and 
+                     Pad U1-25(409.292mil,473.224mil)  Top Layer
+   Violation between Pad U1-27(437.131mil,445.385mil)  Top Layer and 
+                     Pad U1-26(423.212mil,459.304mil)  Top Layer
+   Violation between Pad U1-28(451.05mil,431.465mil)  Top Layer and 
+                     Pad U1-27(437.131mil,445.385mil)  Top Layer
+   Violation between Pad U1-29(464.97mil,417.546mil)  Top Layer and 
+                     Pad U1-28(451.05mil,431.465mil)  Top Layer
+   Violation between Pad U1-30(478.889mil,403.626mil)  Top Layer and 
+                     Pad U1-29(464.97mil,417.546mil)  Top Layer
+   Violation between Pad U1-31(492.809mil,389.707mil)  Top Layer and 
+                     Pad U1-30(478.889mil,403.626mil)  Top Layer
+   Violation between Pad U1-32(506.728mil,375.788mil)  Top Layer and 
+                     Pad U1-31(492.809mil,389.707mil)  Top Layer
+   Violation between Pad U1-33(520.648mil,361.868mil)  Top Layer and 
+                     Pad U1-32(506.728mil,375.788mil)  Top Layer
+   Violation between Pad U1-34(534.567mil,347.949mil)  Top Layer and 
+                     Pad U1-33(520.648mil,361.868mil)  Top Layer
+   Violation between Pad U1-35(548.486mil,334.029mil)  Top Layer and 
+                     Pad U1-34(534.567mil,347.949mil)  Top Layer
+   Violation between Pad U1-36(562.406mil,320.11mil)  Top Layer and 
+                     Pad U1-35(548.486mil,334.029mil)  Top Layer
+   Violation between Pad U1-38(648.706mil,334.029mil)  Top Layer and 
+                     Pad U1-37(634.787mil,320.11mil)  Top Layer
+   Violation between Pad U1-39(662.626mil,347.948mil)  Top Layer and 
+                     Pad U1-38(648.706mil,334.029mil)  Top Layer
+   Violation between Pad U1-40(676.545mil,361.868mil)  Top Layer and 
+                     Pad U1-39(662.626mil,347.948mil)  Top Layer
+   Violation between Pad U1-41(690.465mil,375.788mil)  Top Layer and 
+                     Pad U1-40(676.545mil,361.868mil)  Top Layer
+   Violation between Pad U1-42(704.384mil,389.707mil)  Top Layer and 
+                     Pad U1-41(690.465mil,375.788mil)  Top Layer
+   Violation between Pad U1-43(718.303mil,403.626mil)  Top Layer and 
+                     Pad U1-42(704.384mil,389.707mil)  Top Layer
+   Violation between Pad U1-44(732.223mil,417.546mil)  Top Layer and 
+                     Pad U1-43(718.303mil,403.626mil)  Top Layer
+   Violation between Pad U1-45(746.142mil,431.465mil)  Top Layer and 
+                     Pad U1-44(732.223mil,417.546mil)  Top Layer
+   Violation between Pad U1-46(760.062mil,445.385mil)  Top Layer and 
+                     Pad U1-45(746.142mil,431.465mil)  Top Layer
+   Violation between Pad U1-47(773.981mil,459.304mil)  Top Layer and 
+                     Pad U1-46(760.062mil,445.385mil)  Top Layer
+   Violation between Pad U1-48(787.9mil,473.224mil)  Top Layer and 
+                     Pad U1-47(773.981mil,459.304mil)  Top Layer
+   Violation between Pad MircoUSB-5(999.803mil,865.708mil)  Multi-Layer and 
+                     Pad MircoUSB-1(976.181mil,818.15mil)  Top Layer
+   Violation between Pad MircoUSB-5(850.197mil,865.708mil)  Multi-Layer and 
+                     Pad MircoUSB-5(873.819mil,818.15mil)  Top Layer
+   Violation between Via (430mil,790mil) Top Layer to Bottom Layer and 
+                     Pad R15-1(397mil,790mil)  Bottom Layer
+Rule Violations :58
+
+Processing Rule : Silk To Solder Mask (Clearance=1mil) (IsPad),(All)
+   Violation between Pad KEY_U-3(555mil,112.094mil)  Top Layer and 
+                     Arc (505.98mil,146.234mil)  Top Overlay
+   Violation between Pad ST-LINK1-3(505mil,195mil)  Multi-Layer and 
+                     Arc (505.98mil,146.234mil)  Top Overlay
+   Violation between Pad ST-LINK1-3(505mil,195mil)  Multi-Layer and 
+                     Arc (505.98mil,146.234mil)  Bottom Overlay
+   Violation between Pad KEY_D-4(555mil,112.094mil)  Bottom Layer and 
+                     Arc (505.98mil,146.234mil)  Bottom Overlay
+   Violation between Text "R12" (572.5mil,61.5mil)  Top Overlay and 
+                     Pad KEY_U-3(555mil,112.094mil)  Top Layer
+   Violation between Text "MC_2" (1210mil,825mil)  Top Overlay and 
+                     Pad D2-2(1195mil,863mil)  Top Layer
+   Violation between Text "R26" (951.5mil,460.51mil)  Top Overlay and 
+                     Pad R25-1(937mil,495.254mil)  Top Layer
+   Violation between Text "R29" (1067.5mil,476.5mil)  Top Overlay and 
+                     Pad R23-1(1047mil,550mil)  Top Layer
+   Violation between Track (740mil,915mil)(740mil,1015mil)  Top Overlay and 
+                     Pad MircoUSB-5(769.488mil,950.354mil)  Top Layer
+   Violation between Text "OLED" (773.5mil,1008.5mil)  Top Overlay and 
+                     Pad MircoUSB-5(769.488mil,950.354mil)  Top Layer
+   Violation between Track (340mil,915mil)(740mil,915mil)  Top Overlay and 
+                     Pad MircoUSB-5(769.488mil,950.354mil)  Top Layer
+   Violation between Text "MircoUSB" (810mil,970mil)  Top Overlay and 
+                     Pad MircoUSB-5(769.488mil,950.354mil)  Top Layer
+   Violation between Track (1320mil,1.575mil)(1320mil,201.575mil)  Top Overlay and 
+                     Pad MC-1(1295mil,100mil)  Multi-Layer
+   Violation between Track (965mil,75mil)(965mil,125mil)  Top Overlay and 
+                     Pad MC-(990mil,100mil)  Multi-Layer
+   Violation between Track (1015mil,1.575mil)(1015mil,198.425mil)  Top Overlay and 
+                     Pad MC-(990mil,100mil)  Multi-Layer
+   Violation between Track (965mil,75mil)(1010mil,75mil)  Top Overlay and 
+                     Pad MC-(990mil,100mil)  Multi-Layer
+   Violation between Track (965mil,125mil)(1015mil,125mil)  Top Overlay and 
+                     Pad MC-(990mil,100mil)  Multi-Layer
+   Violation between Text "MC_2" (1210mil,825mil)  Top Overlay and 
+                     Pad Free-0(1295mil,925mil)  Multi-Layer
+   Violation between Track (983.981mil,845.234mil)(983.981mil,887.234mil)  Bottom Overlay and 
+                     Pad MircoUSB-5(999.803mil,865.708mil)  Multi-Layer
+   Violation between Track (1000.481mil,871.734mil)(1031.481mil,871.734mil)  Bottom Overlay and 
+                     Pad MircoUSB-5(999.803mil,865.708mil)  Multi-Layer
+   Violation between Track (1000.481mil,876.734mil)(1031.481mil,876.734mil)  Bottom Overlay and 
+                     Pad MircoUSB-5(999.803mil,865.708mil)  Multi-Layer
+   Violation between Track (1000.481mil,871.734mil)(1000.481mil,876.734mil)  Bottom Overlay and 
+                     Pad MircoUSB-5(999.803mil,865.708mil)  Multi-Layer
+   Violation between Region (0 hole(s)) Bottom Overlay and 
+                     Pad MircoUSB-5(999.803mil,865.708mil)  Multi-Layer
+   Violation between Track (861.481mil,871.734mil)(861.481mil,876.734mil)  Bottom Overlay and 
+                     Pad MircoUSB-5(850.197mil,865.708mil)  Multi-Layer
+   Violation between Track (830.481mil,871.734mil)(861.481mil,871.734mil)  Bottom Overlay and 
+                     Pad MircoUSB-5(850.197mil,865.708mil)  Multi-Layer
+   Violation between Track (830.481mil,876.734mil)(861.481mil,876.734mil)  Bottom Overlay and 
+                     Pad MircoUSB-5(850.197mil,865.708mil)  Multi-Layer
+   Violation between Region (0 hole(s)) Bottom Overlay and 
+                     Pad MircoUSB-5(850.197mil,865.708mil)  Multi-Layer
+   Violation between Text "R32" (373.79mil,327.118mil)  Bottom Overlay and 
+                     Pad R31-2(432.627mil,387.627mil)  Bottom Layer
+   Violation between Text "R32" (373.79mil,327.118mil)  Bottom Overlay and 
+                     Pad R31-1(387.373mil,342.373mil)  Bottom Layer
+   Violation between Text "KEY_D" (630.5mil,-29.5mil)  Bottom Overlay and 
+                     Pad R13-2(623mil,75mil)  Bottom Layer
+   Violation between Text "R13" (572.5mil,88.5mil)  Bottom Overlay and 
+                     Pad KEY_D-2(555mil,27.905mil)  Bottom Layer
+   Violation between Text "R279" (1121.5mil,632.5mil)  Bottom Overlay and 
+                     Pad U18-6(1120mil,560mil)  Bottom Layer
+   Violation between Text "R279" (1121.5mil,632.5mil)  Bottom Overlay and 
+                     Pad U18-7(1170mil,560mil)  Bottom Layer
+   Violation between Text "R279" (1121.5mil,632.5mil)  Bottom Overlay and 
+                     Pad U18-8(1220mil,560mil)  Bottom Layer
+   Violation between Text "R24" (1240mil,285mil)  Bottom Overlay and 
+                     Pad U18-2(1170mil,353.307mil)  Bottom Layer
+   Violation between Text "R24" (1240mil,285mil)  Bottom Overlay and 
+                     Pad U18-1(1220mil,353.307mil)  Bottom Layer
+   Violation between Text "R22" (1165mil,215mil)  Bottom Overlay and 
+                     Pad R24-2(1163mil,260mil)  Bottom Layer
+   Violation between Text "R22" (1165mil,215mil)  Bottom Overlay and 
+                     Pad C7-2(1077mil,250mil)  Bottom Layer
+   Violation between Text "R22" (1165mil,215mil)  Bottom Overlay and 
+                     Pad R22-1(1157mil,195mil)  Bottom Layer
+   Violation between Text "R22" (1165mil,215mil)  Bottom Overlay and 
+                     Pad R22-2(1093mil,195mil)  Bottom Layer
+   Violation between Text "R278" (1137.5mil,731.5mil)  Bottom Overlay and 
+                     Pad R279-1(1135mil,747mil)  Bottom Layer
+   Violation between Text "C8" (1110mil,705mil)  Bottom Overlay and 
+                     Pad R278-2(1087mil,745mil)  Bottom Layer
+   Violation between Text "R27" (1035mil,710mil)  Bottom Overlay and 
+                     Pad R278-1(1023mil,745mil)  Bottom Layer
+Rule Violations :43
+
+Processing Rule : Silk to Silk (Clearance=0mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mil) (All)
+   Violation between Net Antennae: Track (1315mil,355mil)(1315mil,405mil)  Top Layer
+   Violation between Net Antennae: Track (922.254mil,487.254mil)(960mil,487.254mil)  Bottom Layer
+Rule Violations :2
+
+Processing Rule : Clearance Constraint (Gap=6mil) (InPolygon),(All)
+Rule Violations :0
+
+
+Violations Detected : 109
+Time Elapsed        : 00:00:01

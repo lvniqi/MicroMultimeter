@@ -1,0 +1,27 @@
+Removed Pin From Net: NetName=GND Pin=R4-1
+Removed Pin From Net: NetName=BOOT0 Pin=R4-2
+Added Component: Designator=C?(RAD-0.3)
+Added Pin To Net: NetName=GND Pin=R4-1
+Added Pin To Net: NetName=GND Pin=R4-1
+Added Pin To Net: NetName=GND Pin=R4-1
+Added Pin To Net: NetName=3V3 Pin=R4-2
+Added Pin To Net: NetName=3V3 Pin=R4-2
+Added Pin To Net: NetName=BOOT0 Pin=R4-2
+Added Pin To Net: NetName=1.5V Pin=R4-1
+Added Pin To Net: NetName=1.5V Pin=R4-2
+Added Pin To Net: NetName=1.5V Pin=U18-3
+Added Net: Name=1.5V
+Added Pin To Net: NetName=NetC?_2 Pin=C?-2
+Added Pin To Net: NetName=NetC?_2 Pin=R4-1
+Added Pin To Net: NetName=NetC?_2 Pin=R4-2
+Added Pin To Net: NetName=NetC?_2 Pin=R4-2
+Added Net: Name=NetC?_2
+Added Pin To Net: NetName=NetR4_1 Pin=R4-1
+Added Pin To Net: NetName=NetR4_1 Pin=R4-2
+Added Pin To Net: NetName=NetR4_1 Pin=U18-2
+Added Net: Name=NetR4_1
+Added Pin To Net: NetName=SOUND_IN_L Pin=C?-1
+Added Net: Name=SOUND_IN_L
+Added Member To Class: ClassName=U_MicroMultimeter_PHONECNT_Sch Member=Component C? Cap
+Added Member To Class: ClassName=U_MicroMultimeter_PHONECNT_Sch Member=Component R4 Res_0603
+Added Room: Name=USB

@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=SOUND_OUT Pin=R27-2
+Added Pin To Net: NetName=NetR278_2 Pin=R27-2
+Change Net Name : Old Net Name=NetR278_2 New Net Name=NetR27_2

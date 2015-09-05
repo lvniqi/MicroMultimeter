@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=3V3 Pin=OLED_0.96-1
+Removed Pin From Net: NetName=GND Pin=OLED_0.96-2
+Removed Pin From Net: NetName=GND Pin=OLED_0.96-2
+Removed Pin From Net: NetName=GND Pin=OLED_0.96-2
+Removed Pin From Net: NetName=GND Pin=OLED_0.96-2
+Removed Pin From Net: NetName=GND Pin=OLED_0.96-2
+Removed Pin From Net: NetName=OLED_SDI Pin=OLED_0.96-9
+Removed Pin From Net: NetName=OLED_SCK Pin=OLED_0.96-10
+Removed Pin From Net: NetName=GND Pin=OLED_0.96-11
+Removed Pin From Net: NetName=GND Pin=OLED_0.96-12
+Removed Pin From Net: NetName=OLED_DC Pin=OLED_0.96-13
+Removed Pin From Net: NetName=OLED_RST Pin=OLED_0.96-14
+Removed Pin From Net: NetName=OLED_CS Pin=OLED_0.96-15
+Removed Pin From Net: NetName=GND Pin=OLED_0.96-16
+Removed Pin From Net: NetName=GND Pin=OLED_0.96-17

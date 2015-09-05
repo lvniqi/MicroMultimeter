@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=EXP_ID2 Pin=U1-39
+Added Pin To Net: NetName=NetU1_39 Pin=U1-39
+Added Net: Name=NetU1_39
