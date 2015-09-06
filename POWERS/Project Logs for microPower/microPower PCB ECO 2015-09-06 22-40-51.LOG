@@ -1,0 +1,72 @@
+Added Component: Designator=*2(SOP-16)
+Added Component: Designator=C10(CAP_0603)
+Added Component: Designator=C11(CAP_0603)
+Added Component: Designator=R7(RES_0603)
+Added Component: Designator=R8(RES_0603)
+Added Component: Designator=R9(RES_0603)
+Added Component: Designator=R10(RES_0603)
+Added Component: Designator=R11(RES_0603)
+Added Component: Designator=R12(RES_0603)
+Added Component: Designator=R13(RES_0603)
+Added Component: Designator=R14(RES_0603)
+Added Component: Designator=R15(RES_0603)
+Added Component: Designator=R16(RES_0603)
+Added Component: Designator=R17(RES_0603)
+Added Component: Designator=R18(RES_0603)
+Added Component: Designator=U2(SO-14)
+Added Pin To Net: NetName=-5V Pin=*2-7
+Added Pin To Net: NetName=GND Pin=*2-8
+Added Pin To Net: NetName=3.3V Pin=*2-16
+Added Pin To Net: NetName=5V Pin=C10-1
+Added Pin To Net: NetName=-5V Pin=C10-2
+Added Pin To Net: NetName=5V Pin=C11-1
+Added Pin To Net: NetName=-5V Pin=C11-2
+Added Pin To Net: NetName=NetR7_1 Pin=R7-1
+Added Pin To Net: NetName=NetR7_2 Pin=R7-2
+Added Pin To Net: NetName=GND Pin=R8-1
+Added Pin To Net: NetName=NetR7_1 Pin=R8-2
+Added Pin To Net: NetName=NetR9_1 Pin=R9-1
+Added Pin To Net: NetName=NetR9_2 Pin=R9-2
+Added Pin To Net: NetName=NetR14_1 Pin=R10-1
+Added Pin To Net: NetName=NetR9_1 Pin=R10-2
+Added Pin To Net: NetName=NetR11_1 Pin=R11-1
+Added Pin To Net: NetName=NetR14_1 Pin=R11-2
+Added Pin To Net: NetName=NetR12_1 Pin=R12-1
+Added Pin To Net: NetName=NetR11_1 Pin=R12-2
+Added Pin To Net: NetName=NetR13_1 Pin=R13-1
+Added Pin To Net: NetName=NetR14_2 Pin=R13-2
+Added Pin To Net: NetName=GND Pin=R14-1
+Added Pin To Net: NetName=NetR12_1 Pin=R14-2
+Added Pin To Net: NetName=NetU2_1 Pin=U2-1
+Added Pin To Net: NetName=NetU2_1 Pin=U2-2
+Added Pin To Net: NetName=NetR7_1 Pin=U2-3
+Added Pin To Net: NetName=5V Pin=U2-4
+Added Pin To Net: NetName=NetR14_1 Pin=U2-5
+Added Pin To Net: NetName=NetR13_1 Pin=U2-6
+Added Pin To Net: NetName=NetR13_1 Pin=U2-7
+Added Pin To Net: NetName=NetR14_2 Pin=U2-9
+Added Pin To Net: NetName=GND Pin=U2-10
+Added Pin To Net: NetName=-5V Pin=U2-11
+Added Pin To Net: NetName=NetU2_14 Pin=U2-14
+Change Net Name : Old Net Name=NetR14_1 New Net Name=NetR10_1
+Change Net Name : Old Net Name=NetR14_2 New Net Name=NetR13_2
+Added Pin To Net: NetName=NetR16_2 Pin=R16-2
+Added Pin To Net: NetName=NetR16_2 Pin=U2-13
+Added Net: Name=NetR16_2
+Added Member To Class: ClassName=U_OPA4227 Member=Component *2 74HC4051
+Added Member To Class: ClassName=U_OPA4227 Member=Component C10 Cap
+Added Member To Class: ClassName=U_OPA4227 Member=Component C11 Cap
+Added Member To Class: ClassName=U_OPA4227 Member=Component R7 Res3
+Added Member To Class: ClassName=U_OPA4227 Member=Component R8 Res3
+Added Member To Class: ClassName=U_OPA4227 Member=Component R9 Res3
+Added Member To Class: ClassName=U_OPA4227 Member=Component R10 Res3
+Added Member To Class: ClassName=U_OPA4227 Member=Component R11 Res3
+Added Member To Class: ClassName=U_OPA4227 Member=Component R12 Res3
+Added Member To Class: ClassName=U_OPA4227 Member=Component R13 Res3
+Added Member To Class: ClassName=U_OPA4227 Member=Component R14 Res3
+Added Member To Class: ClassName=U_OPA4227 Member=Component R15 Res3
+Added Member To Class: ClassName=U_OPA4227 Member=Component R16 Res3
+Added Member To Class: ClassName=U_OPA4227 Member=Component R17 Res3
+Added Member To Class: ClassName=U_OPA4227 Member=Component R18 Res3
+Added Member To Class: ClassName=U_OPA4227 Member=Component U2 OPA4277
+Added Room: Name=U_OPA4227

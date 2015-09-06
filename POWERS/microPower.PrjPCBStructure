@@ -1,4 +1,6 @@
 Record=SheetSymbol|SourceDocument=MAIN.SchDoc|Designator=U_ETA9640|SchDesignator=U_ETA9640|FileName=ETA9640.SchDoc|SymbolType=Normal|RawFileName=ETA9640.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
 Record=SheetSymbol|SourceDocument=MAIN.SchDoc|Designator=U_EXP|SchDesignator=U_EXP|FileName=EXP.SchDoc|SymbolType=Normal|RawFileName=EXP.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=MAIN.SchDoc|Designator=U_OPA4227|SchDesignator=U_OPA4227|FileName=OPA4227.SchDoc|SymbolType=Normal|RawFileName=OPA4227.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=MAIN.SchDoc|Designator=U_SP6205|SchDesignator=U_SP6205|FileName=SP6205.SchDoc|SymbolType=Normal|RawFileName=SP6205.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
 Record=SheetSymbol|SourceDocument=MAIN.SchDoc|Designator=U_TPS60403|SchDesignator=U_TPS60403|FileName=TPS60403.SchDoc|SymbolType=Normal|RawFileName=TPS60403.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
 Record=TopLevelDocument|FileName=MAIN.SchDoc

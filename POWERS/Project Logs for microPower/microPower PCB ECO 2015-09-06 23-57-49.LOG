@@ -1,0 +1,21 @@
+Added Component: Designator=C14(CAP_0603)
+Added Component: Designator=C15(CAP_0603)
+Added Component: Designator=C16(CAP_0603)
+Added Component: Designator=SP1(SOT23-5)
+Added Pin To Net: NetName=GND Pin=C14-1
+Added Pin To Net: NetName=5V Pin=C14-2
+Added Pin To Net: NetName=GND Pin=C15-1
+Added Pin To Net: NetName=3.3V Pin=C15-2
+Added Pin To Net: NetName=GND Pin=C16-1
+Added Pin To Net: NetName=5V Pin=SP1-1
+Added Pin To Net: NetName=GND Pin=SP1-2
+Added Pin To Net: NetName=5V Pin=SP1-3
+Added Pin To Net: NetName=3.3V Pin=SP1-5
+Added Pin To Net: NetName=NetC16_2 Pin=C16-2
+Added Pin To Net: NetName=NetC16_2 Pin=SP1-4
+Added Net: Name=NetC16_2
+Added Class: Name=U_SP6205
+Added Member To Class: ClassName=U_ETA9640 Member=Component C1 Cap
+Added Member To Class: ClassName=U_ETA9640 Member=Component C2 Cap
+Added Member To Class: ClassName=U_ETA9640 Member=Component C3 Cap
+Added Room: Name=U_SP6205
